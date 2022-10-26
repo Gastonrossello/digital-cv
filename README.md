@@ -22,7 +22,6 @@ de Gobierno (desde 2021 hasta la fecha).**
 > 
 > - **Profesorado en Historia cursando 3° Año.**
 > 
-> 
 > ____________________________________________________________________________________________
 >
 > ###  EDUCACION COMPLEMENTARIA 📝
