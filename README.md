@@ -17,9 +17,9 @@ de Gobierno (desde 2021 hasta la fecha).**
 > ____________________________________________________________________________________________
 >
 > ### EDUCACION FORMAL 📝
-> - **Secundario Completo en Titulo Bachiller en Ciencias Sociales y Humanidades (Año : 2015).**
+> -**Secundario Completo en Titulo Bachiller en Ciencias Sociales y Humanidades (Año : 2015).**
 > 
-> - **Profesorado en Historia cursando 3° Año.**
+> -**Profesorado en Historia cursando 3° Año.**
 > 
 > ____________________________________________________________________________________________
 >
