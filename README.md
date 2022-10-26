@@ -1,4 +1,5 @@
-> - ** Curriculum 
+> ** CURRICULUM
+> 
 > Vitae**  
 > ## Segura Rosselló Gastón Agustín
 > ## Edad: 25 años
@@ -13,12 +14,15 @@
 > ### EXPERIENCIA 📝
 > - **Trabajos Administrativos en Asesoria General
 de Gobierno (desde 2021 hasta la fecha).
+
 > ____________________________________________________________________________________________
 >
 > ### EDUCACION FORMAL 📝
 > - **Secundario Completo en Titulo Bachiller en Ciencias Sociales y Humanidades (Año : 2015).
+> 
 >
 > - **Profesorado en Historia cursando 3° Año.
+> 
 > ____________________________________________________________________________________________
 >
 > ###  EDUCACION COMPLEMENTARIA 📝
