@@ -7,7 +7,7 @@
 > ### Contactos
 >
 > - **Email:** segurarossello@gmail.com
-> - [Linkedin] https://www.linkedin.com/in/gast%C3%B3n-agust%C3%ADn-segura-rossell%C3%B3-a00a74241/
+> - [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-agust%C3%ADn-segura-rossell%C3%B3-a00a74241/)
 > 
 >
 > ____________________________________________________________________________________________
