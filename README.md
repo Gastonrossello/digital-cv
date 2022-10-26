@@ -21,11 +21,12 @@ de Gobierno (desde 2021 hasta la fecha).**
 > - **Secundario Completo en Titulo Bachiller en Ciencias Sociales y Humanidades (Año : 2015).**
 > 
 > - **Profesorado en Historia cursando 3° Año.**
+
 > 
 > ____________________________________________________________________________________________
 >
 > ###  EDUCACION COMPLEMENTARIA 📝
 >
 > - **Curso de Python nivel básico - UTN**
-> 
+>
 > - **Ingles nivel intermedio**
