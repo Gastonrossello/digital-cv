@@ -1,4 +1,3 @@
-> gem "minima"
 > **CURRICULUM VITAE**
 >   
 > ## Segura Rosselló Gastón Agustín
