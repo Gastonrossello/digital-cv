@@ -29,4 +29,4 @@ de Gobierno (desde 2021 hasta la fecha).**
 > - **Curso de Python nivel básico - UTN**
 > 
 > - **Ingles nivel intermedio**
-
+theme: minima 
