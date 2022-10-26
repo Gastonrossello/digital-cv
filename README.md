@@ -30,5 +30,4 @@ de Gobierno (desde 2021 hasta la fecha).**
 > 
 > - **Ingles nivel intermedio**
 
-> theme: Mordernista
-> 
+theme: Mordernista
