@@ -1,6 +1,4 @@
-## Curriculum 
-____________________________________________________________________________________________
-> 
+> - ** Curriculum Vitae**  
 > ## Segura Rosselló Gastón Agustín
 > ## Edad: 25 años
 > ### Lugar de Nacmiento: Provincia de Catamarca - Capital 
